@@ -1,6 +1,6 @@
 {
     "name": "@igorbrito97/export2csv",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Easily create CSV data from json collection",
     "repository": {
         "type": "git",
