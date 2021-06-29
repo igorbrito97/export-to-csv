@@ -1,4 +1,4 @@
-import { ExportToCsv, Options } from './export-to-csv';
+import { ExportToCsv, Options } from './export2csv';
 
 const mockData = [
     {
