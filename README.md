@@ -7,8 +7,7 @@ Based off of [this library](https://github.com/javiertelioz/angular2-csv) by Jav
 ## Installation
 
 ```javascript
-yarn add export-to-csv
-// npm install --save export-to-csv
+npm install --save @igorbrito97/export2csv
 ```
 
 ## Usage
