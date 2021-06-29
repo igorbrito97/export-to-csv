@@ -84,3 +84,4 @@ csvExporter.generateCsv(data);
 | **[javiertelioz](https://github.com/javiertelioz)** |
 | **[sn123](https://github.com/sn123)** |
 | **[arf1980](https://github.com/arf1980)** |
+| **[alexcaza](https://github.com/alexcaza/export-to-csv)** |
